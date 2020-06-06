@@ -29,10 +29,10 @@ s.dependency 'Alamofire', '~> 4.7'
 s.dependency 'MBProgressHUD', '~> 1.1.0'
 
 # 8
-s.source_files = "pod_test/**/*.{swift}"
+s.source_files = "pod_test/pod_test_/**/*.{swift}"
 
 # 9
-s.resources = "pod_test/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+s.resources = "pod_test/pod_test_/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "4.2"
